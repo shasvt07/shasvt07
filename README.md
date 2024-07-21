@@ -59,7 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shasvt07/shasvt07/output/snake.svg" alt="Snake animation" />
 
 ###
 
